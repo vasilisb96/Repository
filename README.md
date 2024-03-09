@@ -1,2 +1,2 @@
-# Example of README.md
-Vasilis Bessis
+## Example of README.md
+# Vasilis Bessis
